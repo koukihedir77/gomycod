@@ -1,0 +1,33 @@
+a {
+     margin-left: 10% ;
+font-size: 200%;
+color: purple;
+font-family: fantasy ;
+text-decoration: solid ;}
+h1{
+margin-bottom: 20%;
+font-size: 200;
+color: rgb(34, 10, 65);
+font-family: 'Times New Roman', Times, serif;
+text-decoration: rgb(3, 18, 24);
+}
+h2{ 
+margin-left: 20%;
+font-size: large;
+color: blue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: wavy;
+}
+.formation{
+    margin-left: 10%;
+    width: 300px;
+    height: 30px;
+}
+
+nav{
+    width: 611px;
+    height: 300px;
+}
+ul{
+    margin-left: 20%;
+}
